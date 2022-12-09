@@ -1,2 +1,2 @@
 # WM-JTK.github.io
-Hello Worls
+Hello World! :)
